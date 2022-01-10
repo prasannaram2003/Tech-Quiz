@@ -9,7 +9,7 @@ our app blog links:
  *)https://prasannaram82.blogspot.com/2022/01/tech-quiz-2022.html
  *)https://prasannaram82.blogspot.com/2022/01/tech-quiz-2022_10.html
  
- GOOGLEDRIVE LINK FOR APP APK:
+ GOOGLEDRIVE LINK FOR APK:
  https://drive.google.com/file/d/1IIOEvpxuc9PcERUX31znHC8xf_Ju2ik3/view?usp=sharing
 
 problem statment:
