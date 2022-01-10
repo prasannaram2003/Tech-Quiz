@@ -28,6 +28,9 @@ Concepts used in the app:
 -------------------------
 *)Kotlin Listview Adapter
 *)Kotlin GridView Adapter
+*)Navigation library
+*)Live data
+*)Viewmodel
 
 ![WhatsApp Image 2022-01-10 at 2 11 08 PM](https://user-images.githubusercontent.com/97431227/148741430-a5666faf-50fa-4b19-ac7c-fa9cb341b71e.jpeg)
 ![WhatsApp Image 2022-01-10 at 2 11 08 PM (1)](https://user-images.githubusercontent.com/97431227/148741900-f0de957f-ea76-4913-ac4a-af3cc87af229.jpeg)
