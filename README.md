@@ -19,6 +19,10 @@ students who taken up the test and stores it for future use. Access rights are
 allocated in following order
 *) We're come with an app which specifies a technical quiz questions to update our technical skills and knowledge.
 
+Concepts used in the app:
+*)Kotlin Listview Adapter
+*)Kotlin GridView Adapter
+
 ![WhatsApp Image 2022-01-10 at 2 11 08 PM](https://user-images.githubusercontent.com/97431227/148741430-a5666faf-50fa-4b19-ac7c-fa9cb341b71e.jpeg)
 ![WhatsApp Image 2022-01-10 at 2 11 08 PM (1)](https://user-images.githubusercontent.com/97431227/148741900-f0de957f-ea76-4913-ac4a-af3cc87af229.jpeg)
 ![WhatsApp Image 2022-01-10 at 2 11 10 PM (1)](https://user-images.githubusercontent.com/97431227/148741905-6120f7c5-2879-4c56-a069-e93697d50ef1.jpeg)
