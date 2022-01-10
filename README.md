@@ -8,3 +8,5 @@ A Quiz App developed with Kotlin. [Click here for the Youtube video] (https://yo
 our app blog links:
  *)https://prasannaram82.blogspot.com/2022/01/tech-quiz-2022.html
  *)https://prasannaram82.blogspot.com/2022/01/tech-quiz-2022_10.html
+
+![WhatsApp Image 2022-01-10 at 2 11 08 PM](https://user-images.githubusercontent.com/97431227/148741430-a5666faf-50fa-4b19-ac7c-fa9cb341b71e.jpeg)
