@@ -12,6 +12,8 @@ our app blog links:
  GOOGLEDRIVE LINK FOR APK:
  https://drive.google.com/file/d/1IIOEvpxuc9PcERUX31znHC8xf_Ju2ik3/view?usp=sharing
 
+INDIVIDUAL SOLUTION:
+--------------------
 problem statment:
  *) The project requires an efficient quizzing system to access the student’s 
 techical skills in various subjects. It generates report of all the
