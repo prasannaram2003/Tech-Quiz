@@ -14,3 +14,15 @@ our app blog links:
 ![WhatsApp Image 2022-01-10 at 2 11 10 PM (1)](https://user-images.githubusercontent.com/97431227/148741905-6120f7c5-2879-4c56-a069-e93697d50ef1.jpeg)
 ![WhatsApp Image 2022-01-10 at 2 11 10 PM](https://user-images.githubusercontent.com/97431227/148741908-4ae4457e-f3f3-442d-a45f-461b70e7474b.jpeg)
 ![WhatsApp Image 2022-01-10 at 2 11 09 PM](https://user-images.githubusercontent.com/97431227/148741909-3ac543a3-dfd3-48ca-b4a0-95cc26fb1977.jpeg)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+problem statment:
+        *) The project requires an efficient quizzing system to access the student’s 
+techical skills in various subjects. It generates report of all the
+students who taken up the test and stores it for future use. Access rights are
+allocated in following order.
+
+      *) We're come with an app which specifies a technical quiz questions to update our technical skills and knowledge.
+
+
